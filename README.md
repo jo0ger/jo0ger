@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 Hi there！👋
 
-I'm [Jooger](https://www.yuque.com/jooger) , A web development engineer。Graduated from HNU (2011.09-2015.06) . and used to work for Meituan.
+I'm [Jooger](https://www.yuque.com/jooger) , A web development engineer。Graduated from HNU (2011.09-2015.06) . and used to work for Meituan. Now I'm working form SensorsData.
 
 * Github：[@Jooger](https://github.com/jo0ger)
 * 掘金：[@Jooger](https://juejin.cn/user/3755587449136215)
